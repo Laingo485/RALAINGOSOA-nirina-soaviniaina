@@ -13,10 +13,10 @@ div{ text-transform: uppercase;
         img{width: 200px;
             height: 200px;
             display: inline-block;
-             }body{/* two-column layout */
+             }body{
 .split {
     display: flex;
-    flex-wrap: wrap; /* stack on narrow screens */
+    flex-wrap: wrap; 
 }
 .left, .right {
     width: 50%;
